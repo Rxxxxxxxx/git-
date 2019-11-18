@@ -1,0 +1,1417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="webhaha:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/hbxy/io3/ObjectTest.java" line="7" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3c1a469-7be0-40f5-8ce5-df59d69f4d42" name="Default Changelist" comment="test pro">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Reflection/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Reflection/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Reflection/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Reflection/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/TestJavaCompiler/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/annotation/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/annotation/StuField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/annotation/StuTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/annotation/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/collection/ArrayListRx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/collection/LinkedListRx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/course/c01/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/io/ContentDecode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/io/ContentEncode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/io/DirDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/io/DirDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/io/DirDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/io/FileDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/io/FileDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/io/FileDemo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/io/FileDemo05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/io/FileDemo06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/io/IMG_20161010_115415.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/io/PathDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/io2/IOTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/io2/IOTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/io2/IOTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/io2/IOTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/io2/IOTest05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/io2/IOTest06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/io2/IOTest07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/io2/IOTest08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/io2/abc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/io3/BufferedTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/io3/BufferedTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/io3/BufferedTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/io3/BufferedTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/io3/ConvertTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/io3/DecorateTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/io3/DecorateTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/io3/ObjectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/io3/abc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/net/loc/IPTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/net/loc/TalkReceive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/net/loc/TalkSend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/net/loc/TalkStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/net/loc/TalkTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/net/loc/UdpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/net/loc/UdpServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/server/ReflectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/sort/Kuaisu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/c07/javabean/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/filter/FilterServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/filter/MyFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/jdbc/JDBC01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/jdbc/JDBC02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/jdbc/JDBC03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/lock/LockTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/lock/LockTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/state/AllState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/state/BlockedSleep01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/state/Join.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/state/Priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/state/TerminateThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/state/YieldTe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/thread/DoubleCheckedLocking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/thread/Web12306.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/thread/hezuo/CoTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/thread/syn/HappyCinema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/thread/syn/HappyCinema2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/thread/syn/SynTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/user/dao/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/user/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/user/servlet/UserAddServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/user/servlet/UserDeleteServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/user/servlet/UserEditServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/user/servlet/UserListServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/user/servlet/UserToAddServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/user/servlet/UserToEditServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/util/JDBCUtl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruixu/test/Testtt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruixu/webstudy/c01/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruixu/webstudy/c01/RefreshServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruixu/webstudy/c01/myweb/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruixu/webstudy/c01/myweb/welcome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruixu/webstudy/servlet/ChineseServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruixu/webstudy/servlet/HelloWorldServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruixu/webstudy/servlet/MyServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruixu/webstudy/servlet/PrintServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruixu/webstudy/servlet/RequestMethodServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ruixu/webstudy/servlet/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sjms/单例模式/DoubleCheckedLocking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sjms/单例模式/SingletonDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sjms/单例模式/SingletonDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sjms/单例模式/SingletonDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sjms/单例模式/SingletonDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sjms/单例模式/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/ff.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/first.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/javascript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/table2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/table3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/myjsp.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/t1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/user/useradd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/user/useredit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/user/userlist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/upload/null" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/webhaha.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Reflection/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Reflection/Demo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Reflection/Demo03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Reflection/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Reflection/UserF.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/TestJavaCompiler/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/annotation/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/annotation/StuField.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/annotation/StuTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/annotation/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/collection/ArrayListRx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/collection/LinkedListRx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/collection/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/course/c01/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/io/ContentDecode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/io/ContentEncode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/io/DirDemo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/io/DirDemo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/io/DirDemo03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/io/FileDemo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/io/FileDemo03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/io/FileDemo04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/io/FileDemo05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/io/FileDemo06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/io/PathDemo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/io2/IOTest01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/io2/IOTest02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/io2/IOTest03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/io2/IOTest04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/io2/IOTest05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/io2/IOTest06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/io2/IOTest07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/io2/IOTest08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/io3/Amplifier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/io3/BufferedTest01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/io3/BufferedTest02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/io3/BufferedTest03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/io3/BufferedTest04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/io3/Coffee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/io3/ConvertTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/io3/Decorate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/io3/DecorateTest01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/io3/DecorateTest02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/io3/Drink.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/io3/Milk.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/io3/ObjectTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/io3/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/io3/Say.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/net/loc/IPTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/net/loc/TalkReceive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/net/loc/TalkSend.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/net/loc/TalkStudent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/net/loc/TalkTeacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/net/loc/UdpClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/net/loc/UdpServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/server/Iphone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/server/ReflectTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/sort/Kuaisu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/c07/javabean/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/filter/FilterServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/filter/MyFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/jdbc/JDBC01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/jdbc/JDBC02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/jdbc/JDBC03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/lock/Lock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/lock/LockTest01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/lock/LockTest02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/lock/ReLock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/state/AllState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/state/BlockedSleep01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/state/Father.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/state/Join.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/state/MyPri.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/state/Priority.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/state/Son.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/state/TerminateThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/state/Web12306.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/state/YieldTe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/thread/DoubleCheckedLocking.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/thread/Web12306.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/thread/hezuo/CoTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/thread/hezuo/Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/thread/hezuo/Mantou.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/thread/hezuo/Productor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/thread/hezuo/SynContainer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/thread/syn/Cinema.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/thread/syn/Cinema2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/thread/syn/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/thread/syn/Customer2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/thread/syn/HappyCinema.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/thread/syn/HappyCinema2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/thread/syn/SafeWeb12306.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/thread/syn/SynTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/user/dao/UserDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/user/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/user/servlet/UserAddServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/user/servlet/UserDeleteServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/user/servlet/UserEditServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/user/servlet/UserListServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/user/servlet/UserToAddServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/user/servlet/UserToEditServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/hbxy/webstudy/util/JDBCUtl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ruixu/test/Testtt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ruixu/webstudy/c01/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ruixu/webstudy/c01/RefreshServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ruixu/webstudy/servlet/ChineseServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ruixu/webstudy/servlet/HelloWorldServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ruixu/webstudy/servlet/MyServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ruixu/webstudy/servlet/PrintServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ruixu/webstudy/servlet/RequestMethodServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ruixu/webstudy/servlet/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sjms/单例模式/DoubleCheckedLocking.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sjms/单例模式/SingletonDemo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sjms/单例模式/SingletonDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sjms/单例模式/SingletonDemo4$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sjms/单例模式/SingletonDemo4$SingletonClassInstance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sjms/单例模式/SingletonDemo4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sjms/单例模式/SingletonDemo5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sjms/单例模式/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/WEB-INF/classes/com/hbxy/course/c01/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/WEB-INF/classes/com/hbxy/io/IMG_20161010_115415.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/WEB-INF/classes/com/hbxy/webstudy/c07/javabean/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/WEB-INF/classes/com/hbxy/webstudy/filter/FilterServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/WEB-INF/classes/com/hbxy/webstudy/filter/MyFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/WEB-INF/classes/com/hbxy/webstudy/jdbc/JDBC01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/WEB-INF/classes/com/hbxy/webstudy/jdbc/JDBC02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/WEB-INF/classes/com/hbxy/webstudy/jdbc/JDBC03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/WEB-INF/classes/com/hbxy/webstudy/user/dao/UserDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/WEB-INF/classes/com/hbxy/webstudy/user/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/WEB-INF/classes/com/hbxy/webstudy/user/servlet/UserAddServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/WEB-INF/classes/com/hbxy/webstudy/user/servlet/UserDeleteServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/WEB-INF/classes/com/hbxy/webstudy/user/servlet/UserEditServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/WEB-INF/classes/com/hbxy/webstudy/user/servlet/UserListServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/WEB-INF/classes/com/hbxy/webstudy/user/servlet/UserToAddServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/WEB-INF/classes/com/hbxy/webstudy/user/servlet/UserToEditServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/WEB-INF/classes/com/hbxy/webstudy/util/JDBCUtl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/WEB-INF/classes/com/ruixu/webstudy/c01/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/WEB-INF/classes/com/ruixu/webstudy/c01/RefreshServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/WEB-INF/classes/com/ruixu/webstudy/servlet/ChineseServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/WEB-INF/classes/com/ruixu/webstudy/servlet/HelloWorldServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/WEB-INF/classes/com/ruixu/webstudy/servlet/MyServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/WEB-INF/classes/com/ruixu/webstudy/servlet/PrintServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/WEB-INF/classes/com/ruixu/webstudy/servlet/RequestMethodServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/WEB-INF/classes/com/ruixu/webstudy/servlet/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/WEB-INF/lib/commons-fileupload-1.3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/WEB-INF/lib/commons-io-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/WEB-INF/lib/mysql-connector-java-8.0.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/WEB-INF/lib/protobuf-java-2.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/css/ff.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/html/first.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/html/javascript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/html/myweb/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/html/table2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/html/table3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/jsp/myjsp.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/jsp/t1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/jsp/user/useradd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/jsp/user/useredit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/jsp/user/userlist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/webhaha/upload/null" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="webhaha" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ruixu/test/Testtt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/annotation/Demo01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/annotation/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/annotation/StuField.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/annotation/StuTable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/Reflection/Demo01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/Reflection/Demo02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hi.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/css/ff.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/myjsp.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Jsp File" />
+        <option value="HTML File" />
+        <option value="UML Sequence" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_BRANCHES_INFO" value="false" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/hbxy/io/FileDemo04.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hbxy/io/FileDemo05.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hbxy/io/FileDemo06.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hbxy/io/DirDemo01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hbxy/io/DirDemo02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hbxy/io/DirDemo03.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hbxy/io/ContentEncode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hbxy/io/ContentDecode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hbxy/io2/IOTest03.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hbxy/io2/IOTest04.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hbxy/io2/abc.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hbxy/io2/IOTest05.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hbxy/io2/IOTest06.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hbxy/io2/IOTest07.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hbxy/io2/IOTest08.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hbxy/io3/DecorateTest01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hbxy/io3/DecorateTest02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hbxy/io3/IOTest04.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hbxy/io3/BufferedTest01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hbxy/io3/BufferedTest02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hbxy/io3/IOTest05.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hbxy/io3/BufferedTest03.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hbxy/io3/abc.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hbxy/io3/BufferedTest04.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hbxy/io3/ConvertTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hbxy/io3/ObjectTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hbxy/server/ReflectTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/annotation/Table.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/annotation/StuTable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/annotation/StuField.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/annotation/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/annotation/Demo01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Reflection/Demo02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Reflection/Demo03.java" />
+        <option value="$PROJECT_DIR$/../MyJava/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hbxy/io2/IOTest01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hbxy/io2/IOTest02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/TestJavaCompiler/Demo01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sjms/SingletonDemo1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sjms/SingletonDemo2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sjms/DoubleCheckedLocking.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sjms/SingletonDemo4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sjms/SingletonDemo5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sjms/singleton.puml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Reflection/Demo01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sjms/单例模式/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sjms/单例模式/SingletonDemo2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hbxy/sort/Kuaisu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Reflection/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ruixu/test/Testtt.java" />
+        <option value="$PROJECT_DIR$/hi.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="webhaha Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="webhaha" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webhaha" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webhaha" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webhaha" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webhaha" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webhaha" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webhaha" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webhaha" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webhaha" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webhaha" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webhaha" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webhaha" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Reflection" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="DefaultPlantUmlFileTemplate" value="UML Sequence" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543479358188" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\webhaha\src\main\java\com\ruixu\webstudy\c01" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sjms" />
+      <recent name="com.hbxy.io2" />
+      <recent name="com.hbxy.io" />
+      <recent name="com.hbxy.net.loc" />
+      <recent name="com.hbxy.webstudy.lock" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\webhaha\src\main\java\com\hbxy\io3" />
+      <recent name="F:\webhaha\src\main\java\com\hbxy\io" />
+      <recent name="F:\webhaha\src\main\java\com\hbxy\webstudy\thread\syn" />
+      <recent name="F:\webhaha\src\main\webapp\css" />
+      <recent name="F:\webhaha\src\main\webapp\html" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Demo02">
+    <configuration name="Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Reflection.Demo01" />
+      <module name="webhaha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Reflection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Reflection.Demo02" />
+      <module name="webhaha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Reflection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBC03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hbxy.webstudy.jdbc.JDBC03" />
+      <module name="webhaha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hbxy.webstudy.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kuaisu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hbxy.sort.Kuaisu" />
+      <module name="webhaha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hbxy.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testtt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ruixu.test.Testtt" />
+      <module name="webhaha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ruixu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="first.html" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.85" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:9090/html/first.html" />
+      <deployment>
+        <artifact name="webhaha:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="first_html_webhaha" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="webhaha:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="tomcat7" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.85" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="webhaha:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_webhaha" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51359" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="webhaha:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Testtt" />
+      <item itemvalue="Application.JDBC03" />
+      <item itemvalue="Application.Kuaisu" />
+      <item itemvalue="Application.Demo01" />
+      <item itemvalue="Tomcat Server.tomcat7" />
+      <item itemvalue="Tomcat Server.first.html" />
+      <item itemvalue="Application.Demo02" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo02" />
+        <item itemvalue="Application.Testtt" />
+        <item itemvalue="Application.Demo01" />
+        <item itemvalue="Application.Kuaisu" />
+        <item itemvalue="Application.JDBC03" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3c1a469-7be0-40f5-8ce5-df59d69f4d42" name="Default Changelist" comment="" />
+      <created>1539241995484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539241995484</updated>
+      <workItem from="1539242002823" duration="2378000" />
+      <workItem from="1539756458305" duration="5146000" />
+      <workItem from="1539843067605" duration="6477000" />
+      <workItem from="1540361157673" duration="3184000" />
+      <workItem from="1540448091720" duration="4638000" />
+      <workItem from="1540969220513" duration="3099000" />
+      <workItem from="1541052331270" duration="6944000" />
+      <workItem from="1541213255956" duration="3141000" />
+      <workItem from="1541570807671" duration="773000" />
+      <workItem from="1541598591197" duration="3864000" />
+      <workItem from="1541643684060" duration="3621000" />
+      <workItem from="1541657133305" duration="1420000" />
+      <workItem from="1543388090507" duration="385000" />
+      <workItem from="1543473015120" duration="6072000" />
+      <workItem from="1543480784447" duration="9000" />
+      <workItem from="1544598213230" duration="4000" />
+      <workItem from="1545203800561" duration="2075000" />
+      <workItem from="1545289521291" duration="619000" />
+      <workItem from="1545750125700" duration="22000" />
+      <workItem from="1559696405071" duration="80000" />
+      <workItem from="1569640612235" duration="105000" />
+      <workItem from="1572326984287" duration="14735000" />
+      <workItem from="1572396045892" duration="14832000" />
+      <workItem from="1572488120670" duration="12526000" />
+      <workItem from="1572570181825" duration="15851000" />
+      <workItem from="1572655285452" duration="29528000" />
+      <workItem from="1572742660756" duration="26519000" />
+      <workItem from="1572840740242" duration="4466000" />
+      <workItem from="1572858949349" duration="579000" />
+      <workItem from="1572957368722" duration="1313000" />
+      <workItem from="1573004632030" duration="7376000" />
+      <workItem from="1573022749797" duration="2653000" />
+      <workItem from="1573103777217" duration="2634000" />
+      <workItem from="1573118016749" duration="32000" />
+      <workItem from="1573526245831" duration="307000" />
+      <workItem from="1573526579804" duration="1595000" />
+      <workItem from="1574053065891" duration="1041000" />
+      <workItem from="1574055579574" duration="2074000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="192117000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="760" y="0" width="784" height="832" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49473685" visible="true" weight="0.26721764" />
+      <window_info id="Structure" order="1" sideWeight="0.50526315" side_tool="true" weight="0.30027547" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.50526315" side_tool="true" weight="0.30027547" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection Results" weight="0.32952926" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32952926" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.23175965" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32857144" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24865952" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.36796248" />
+      <window_info anchor="right" id="Database" order="6" weight="0.327748" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.66436464" />
+      <window_info anchor="right" id="PlantUML" order="10" weight="0.2761394" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="echo &quot;# git-&quot; &gt;&gt; README.md&#10;git init&#10;git add README.md&#10;git commit -m &quot;first commit&quot;&#10;git remote add origin https://github.com/Rxxxxxxxx/git-.git&#10;git push -u origin master" />
+    <MESSAGE value="test pro" />
+    <option name="LAST_COMMIT_MESSAGE" value="test pro" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="state.ordinal" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointLogExpression">
+      <expression>
+        <expression-string>);
+    public void a() throws InterruptedException {
+        lock.lock();
+        System.out.println(lock.getHoldCount());
+        doSome();
+        lock.unlock();
+        System.out.println(lock.getHoldCount());</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sjms/单例模式/DoubleCheckedLocking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/jdbc/JDBC01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/jdbc/JDBC02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/jdbc/JDBC03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sjms/单例模式/SingletonDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sjms/单例模式/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hbxy/sort/Kuaisu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-149">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/user/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruixu/webstudy/servlet/ChineseServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruixu/webstudy/servlet/HelloWorldServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruixu/webstudy/servlet/MyServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruixu/webstudy/servlet/PrintServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruixu/webstudy/servlet/RequestMethodServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruixu/webstudy/servlet/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruixu/webstudy/c01/myweb/login.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruixu/webstudy/c01/myweb/welcome.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruixu/webstudy/c01/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruixu/webstudy/c01/RefreshServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="76" column="19" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Reflection/Demo03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="632">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Reflection/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding>
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hbxy/io2/abc.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hbxy/io2/IOTest01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hbxy/io2/IOTest02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hbxy/io2/IOTest03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hbxy/io2/IOTest04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/FileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="44" column="44" selection-start-line="44" selection-start-column="44" selection-end-line="44" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/InputStreamReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="61" column="41" selection-start-line="61" selection-start-column="41" selection-end-line="61" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/Reader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hbxy/io2/IOTest06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hbxy/io2/IOTest05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/filter/FilterServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/filter/MyFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/user/dao/UserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/user/servlet/UserAddServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/user/servlet/UserDeleteServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/user/servlet/UserEditServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/user/servlet/UserListServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/user/servlet/UserToAddServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hbxy/webstudy/user/servlet/UserToEditServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ruixu/test/Testtt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/annotation/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/annotation/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/annotation/StuField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/annotation/StuTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Reflection/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Reflection/Demo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hi.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/ff.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/myjsp.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>webhaha:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>webhaha</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
